@@ -1,28 +1,28 @@
-body {
-  margin: 0;
-  font-family: sans-serif;
-  background-color: #ffffff;
-  color: #333;
-  transition: background-color 0.3s ease;
+corpo {
+  margem: 0;
+  fonte-família: sans-serif;
+  fundo-cor: #ffffff;
+  cor: #333;
+  transição: fundo-cor 0,3s facilidade;
 }
-header {
-  background-color: #f5f5f5;
-  padding: 1rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+cabeçalho {
+  fundo-cor: #f5f5f5;
+  preenchimento: 1rem;
+  exibição: flex;
+ justificar conteúdo: espaço-entre;
+ alinhar itens: centro;
 }
 #artigos-container {
-  padding: 2rem;
+  preenchimento: 2rem;
 }
-.artigo {
-  border-bottom: 1px solid #ccc;
-  padding: 1rem 0;
+. . .artigo {
+ borda inferior: 1px sólido #ccc;
+ preenchimento: 1rem 0;
 }
-.artigo img {
-  max-width: 100%;
-  height: auto;
+. .artigo img {
+ larga máxima: 100%;
+  alta: auto;
 }
-.artigo h2 {
-  margin: 0.5rem 0;
+. .artigo h2 {
+  margem: 0,5rem 0;
 }
